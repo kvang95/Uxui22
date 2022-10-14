@@ -21,7 +21,7 @@ body {
 
 #secondaryProduct {
   grid-area: secondaryProduct;
-  background-image: url("../images/furniture2.png");
+  background-image: url("../images/bookcases.png");
 }
 
 #CTA {
